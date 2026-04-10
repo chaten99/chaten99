@@ -52,7 +52,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaten99&show_icons=true&theme=catppuccin_macchiato&hide_border=true&bg_color=1e1e2e&title_color=8c8aff" alt="Chaten's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaten99&theme=catppuccin_macchiato&hide_border=true&background=1e1e2e&ring=8c8aff&fire=8c8aff&currStreakLabel=8c8aff" alt="Chaten's GitHub Streak" width="48%" />
 </div>
 <br>
