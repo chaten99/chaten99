@@ -1,51 +1,80 @@
-<p align="center"> 
-  <img src="https://github.com/chaten99/chaten99/blob/main/banner.png" /> 
-</p>
+<div align="center">
+  <img src="https://github.com/chaten99/chaten99/blob/main/banner.png" alt="Banner" width="100%" />
+</div>
 
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
-  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
-</h1>
+<h1 align="center">Hi there, I'm Chaten! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-<div align="center">  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235EF72C&size=26&lines=Hey!+This+is+Chaten;I'm+a+2nd+Year+Student;Aspiring+Full+Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
-</div> 
-
-<p align="center"><em>
-<p align="center"><em>
-Undergrad in Computer Science (2nd Year)<br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px" height="25px"> I enjoy learning new things <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px" height="25px"> <br>  
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"> Always exploring new ideas & projects <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px">  
-</em></p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=chaten99&label=Profile%20Views&theme=react-dark&style=plastic" alt="chaten99" /> 
-</p>
-
----
-
-<h2 align="center"> 
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> Languages & Tools 
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> 
-</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8C8AFF&center=true&vCenter=true&width=600&lines=2nd-Year+BCA-AI+Student;Full-Stack+Developer;Crafting+Cinematic+Web+Experiences;Always+Exploring+New+Ideas" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,mongodb,postgresql,git,c,cpp" />
-  <br>
-    <img src="https://skillicons.dev/icons?i=tailwind,vscode" />
-</p><br>
+  <em>Bridging the gap between visually stunning frontends and robust backend architecture.</em>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaten99&label=Profile%20Views&color=8c8aff&style=flat-square" alt="chaten99" />
+</div>
 
 ---
 
-<h2 align="center"> 
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> Connect With Me 
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> 
-</h2>
+### 👨‍💻 About Me
 
-<p align="center">
-<a href="https://linkedin.com/in/chaten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>&nbsp;&nbsp;
-</p><br><br>
+* 🎓 Currently pursuing a **BCA with a specialization in Artificial Intelligence**.
+* 🚀 Evolving into a **Full-Stack Developer**, blending high-performance user interfaces with scalable backend systems.
+* 💡 Passionate about "visual silence" in design, cinematic animations, and writing clean, maintainable code.
+* 🤝 Always open to collaborating on creative projects, open-source tools, or hackathons!
 
 ---
 
-![Chaten's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaten99&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=javascript,ts,c,cpp,html,css" />
+  <br><br>
+  <p><strong>Frontend & Frameworks</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+  <br><br>
+  <p><strong>Backend & Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,redis" />
+  <br><br>
+  <p><strong>Tools, Environments & Real-Time</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaten99&show_icons=true&theme=catppuccin_macchiato&hide_border=true&bg_color=1e1e2e&title_color=8c8aff" alt="Chaten's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaten99&theme=catppuccin_macchiato&hide_border=true&background=1e1e2e&ring=8c8aff&fire=8c8aff&currStreakLabel=8c8aff" alt="Chaten's GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaten99&bg_color=1e1e2e&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true&theme=react-dark" alt="Chaten's Activity Graph" width="100%" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/chaten" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chatentoor009@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/chaten_toor" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+  </a>
+  <a href="https://chaten.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252526?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
