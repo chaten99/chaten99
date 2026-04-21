@@ -64,16 +64,10 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/chaten" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:chatentoor009@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/chaten_toor" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-  </a>
-  <a href="https://chaten.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252526?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
 </div>
