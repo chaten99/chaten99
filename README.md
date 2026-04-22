@@ -6,12 +6,12 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8C8AFF&center=true&vCenter=true&width=600&lines=2nd-Year+BCA-AI+Student;Full-Stack+Developer;Crafting+Cinematic+Web+Experiences;Always+Exploring+New+Ideas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8C8AFF&center=true&vCenter=true&width=650&lines=2nd-Year+BCA-AI+Student;Aspiring+Software+Development+Engineer;Crafting+Cinematic+Web+Experiences;Always+Exploring+New+Ideas" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <em>Bridging the gap between visually stunning frontends and robust backend architecture.</em>
+  <em>Bridging the gap between elegant design and scalable software architecture.</em>
 </p>
 
 <div align="center">
@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 Currently pursuing a **BCA with a specialization in Artificial Intelligence**.
-* 🚀 Evolving into a **Full-Stack Developer**, blending high-performance user interfaces with scalable backend systems.
+* 🚀 Evolving as an **Aspiring Software Development Engineer**, building robust applications from the ground up.
 * 💡 Passionate about "visual silence" in design, cinematic animations, and writing clean, maintainable code.
 * 🤝 Always open to collaborating on creative projects, open-source tools, or hackathons!
 
@@ -64,16 +64,16 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/chaten" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:chatentoor009@gmail.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/chaten_toor" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
   </a>
-  <a href="https://chaten.netlify.app" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252526?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
 </div>
