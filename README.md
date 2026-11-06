@@ -112,18 +112,6 @@ timeline
 
 </details>
 
-<details>
-<summary><b>🎯 2026 goals</b> &nbsp;<sub>click to expand</sub></summary>
-<br/>
-
-- [x] Ship an AI-powered SaaS end to end
-- [x] Work in real production codebases
-- [ ] Make meaningful open-source contributions
-- [ ] Go deeper into distributed systems &amp; system design
-- [ ] Land a full-time Software Engineer role
-
-</details>
-
 <!-- ═══════════════════════════════ STACK ═══════════════════════════════ -->
 
 ## 🛠️ Tech Stack
@@ -172,10 +160,6 @@ timeline
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=chaten99&theme=default&hide_border=true&background=FFFFFF&ring=5257FF&fire=8C8AFF&currStreakLabel=5257FF" />
     <img src="https://streak-stats.demolab.com/?user=chaten99&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8C8AFF&fire=38E8FF&currStreakLabel=8C8AFF" alt="GitHub contribution streak" width="70%" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/8c8aff/chaten99" alt="Contribution chart" width="100%" />
 </p>
 
 <p align="center">
